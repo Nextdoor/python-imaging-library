@@ -1,4 +1,4 @@
-pytho-imaging-library
+python-imaging-library
 =====================
 
 Nextdoor fork of PIL
